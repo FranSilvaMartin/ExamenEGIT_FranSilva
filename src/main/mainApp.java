@@ -29,7 +29,6 @@ public class mainApp {
 			resultado = numero1 - numero2;
 			System.out.println("RESTA: " + resultado);
 		}
-		
 	}
 
 }
